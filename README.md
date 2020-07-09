@@ -1,2 +1,2 @@
 
-computer science &amp; engineering
+computer science & engineering
