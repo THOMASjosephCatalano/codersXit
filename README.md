@@ -1,2 +1,2 @@
 
-computer science &amp; ngineering
+computer science &amp; engineering
