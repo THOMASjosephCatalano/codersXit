@@ -1,2 +1,0 @@
-// initiating system start make
-
