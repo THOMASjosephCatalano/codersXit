@@ -11,18 +11,18 @@ to render execution::*_policy as concurrent updates without syncronization.
 
 
 Table of Contents
-🕐 Introduction
+I Introduction
 
-🕑
+II
 
-🕒
+III
 
-🕓
+VI
 
-🕔
+V
 
-🕕
+IV
 
 
-🕐 Introduction.
+I Introduction.
 
