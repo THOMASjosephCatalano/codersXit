@@ -1,2 +1,2 @@
 
-computer science & engineering
+COMPUTER
