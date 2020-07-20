@@ -10,7 +10,11 @@ time scaler arithmetic
 Introduction
 
 The requirement to implement a dynamic new language with the
-non-silica computer for time synchronization only 
+non-silica computer for time synchronization only achievable
+by a; median-free liquid-filled photonic BIT transfer
+will use the term "flux" as the defining term that depicts
+full spatial rendering in quantum; processor architecture/computing
+(ie. the median-free liquid-filled full-spatial photonic BIT transfer processor/computer 
 
 Overall concentration will include floating point
 binding arrays, for example the requirement to fulfill
