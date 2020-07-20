@@ -1,0 +1,12 @@
+intellectual property of; thomas catalano
+
+
+programming language: Huddle
+
+the requisite Assembly implantation for the immediate
+requirement of BINARY/BIT encoding/decoding for time 
+scaler arithmetic.
+
+Introduction
+
+The 
