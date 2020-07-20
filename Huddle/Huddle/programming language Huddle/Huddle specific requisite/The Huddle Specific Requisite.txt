@@ -9,7 +9,12 @@ time scaler arithmetic
 
 Introduction
 
+The requirement to implement a dynamic new language with the
+non-silica computer for time synchronization only 
+
 Overall concentration will include floating point
 binding arrays, for example the requirement to fulfill
 spatial vectorization as fractal whole sum plots.
+
+
 
