@@ -9,6 +9,7 @@ time scaler arithmetic
 
 Introduction
 
-Overall concentration will include floating point binding
+Overall concentration will include
+floating point arithmetic, floating point binding
 arrays.
 
