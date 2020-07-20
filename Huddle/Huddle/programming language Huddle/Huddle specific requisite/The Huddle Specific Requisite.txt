@@ -15,8 +15,7 @@ by full spatial rendering in quantum; processor architecture/computing
 (ie. the median-free liquid-filled full-spatial photonic BIT transfer processor/computer 
 
 Overall concentration will include floating point
-binding arrays, for example the requirement to fulfill
-spatial vectorization as fractal whole sum plots.
+binding arrays.
 
 
 
