@@ -9,9 +9,9 @@ time scaler arithmetic
 
 Introduction
 
-The requirement to implement a dynamic new language with or without 
-the silicon computer(ie. siliconfor time synchronization only achievable
-by full spatial rendering in quantum; processor architecture/computing
+The requirement to implement a dynamic new language with 
+non-silicon computer for time synchronization, only achievable by 
+full spatial rendering in quantum; processor architecture/computing
 (ie. the median-free liquid-filled full-spatial photonic BIT transfer processor/computer 
 
 Overall concentration will include floating point
