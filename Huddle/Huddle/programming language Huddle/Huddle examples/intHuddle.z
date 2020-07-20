@@ -1,4 +1,4 @@
-#init<intHuddle.u>
+#<intHuddle.u>
 
 int src = 1;
 int dst;   
