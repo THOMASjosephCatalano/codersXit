@@ -9,4 +9,5 @@ time scaler arithmetic
 
 Introduction
 
-The 
+Overall concentration will include the floating point
+tilda numeric system.
