@@ -10,7 +10,7 @@ time scaler arithmetic
 Introduction
 
 The requirement to implement a dynamic new language with 
-non-silicon computer for time synchronization, only achievable by 
+non-silicon computer in mind for true time synchronization, only achievable by 
 full spatial rendering in quantum; processor architecture/computing
 (ie. the median-free liquid-filled full-spatial photonic BIT transfer processor/computer 
 
