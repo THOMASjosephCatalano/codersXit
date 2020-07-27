@@ -15,8 +15,9 @@ Table of Contents
 I Introduction
 
 
-------------------------------
+----------------------------------------------------------------------------------------
 
 I Introduction
 
-When we call our reference(s), the counter remains static deteriorating time no matter the pointer
+When we call our reference(s), the counter remains static deteriorating time no matter 
+the pointer, without inherently calling the same reference
