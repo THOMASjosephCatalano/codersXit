@@ -19,4 +19,4 @@ I Introduction
 
 I Introduction
 
-When we call our reference(s), the counter 
+When we call our reference(s), the counter remains static deteriorating time no matter the pointer
