@@ -3,13 +3,13 @@ MIT License
 Copyright (c) THOMAS CATALANO
 
 Copyright (c) Binary Coded Decimal(BCD);format/encoding
+Copyright (c) ".*" *=all file;format/extensions/encoding
 
+below are examples of extensions after "Copyright (c)";
 Copyright (c) ".asm*" file;format/extensions/encoding
 Copyright (c) ".i*" file;format/extensions/encoding
 Copyright (c) ".h*" file;format/extensions/encoding
 Copyright (c) ".c*" file;format/extensions/encoding
-
-Copyright (c) ".*" file;format/extensions/encoding
 
 All rights reserved.             
 
