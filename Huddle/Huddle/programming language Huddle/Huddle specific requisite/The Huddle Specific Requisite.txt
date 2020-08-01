@@ -3,7 +3,7 @@ intellectual property of/by; thomas catalano
 
 programming language: Huddle
 
-the requisite Assembly implantation for the immediate
+the requisite hardware implantation for the immediate
 requirement of BINARY/BIT encoding/decoding for syncronys 
 time scaler arithmetic
 
