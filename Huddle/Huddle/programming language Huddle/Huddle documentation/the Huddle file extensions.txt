@@ -4,4 +4,4 @@ casted file extensions as of 2020-07;
 
 .u = header files
 
-.z = program file
+.z = program files
