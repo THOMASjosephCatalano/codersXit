@@ -12,11 +12,8 @@ Copyright (c) transaction(s)/transactionary serfraction(s) require(s) bartertuti
               proxing space-time/frame(past(s) present(s) &| future(s));algorithm:
               "transaction(s)/transactionary serfraction(s) require(s) bartertutionl servitudinal account
               proxing space-time(past(s), present(s) &| future(s))"\.
-Copyright (c) "lense(s)";material-mater-state:lense(s)\.   
-Copyright (c) "magnet(s)";material-mater-state:magnet(s)\.
-Copyright (c) "semiconductor(s)/conductor(s)";material-mater-state:semiconductor(s)/conductor(s)\.
-Copyright (c) "crystal(s)'s/crystal-structure(s)";material-mater-state:crystal(s)/crystal-structure(s)(ziener-diode(s))\.
-Copyright (c) "mater-material-mass-structure(s)'s";mater-material-mass-structure(s)'s\.
+
+Copyright (c) "BIT(s)-mater-material-mass-structure(s)'s;"BIT(s)-mater-material-mass-structure(s)'s""\.
 
 All rights reserved.
             
