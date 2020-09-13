@@ -2,29 +2,39 @@
 
 Copyright (c) */* "License-FORMAT_LEGAL-ACQUISITION-EQUES";this "license" "inclusive":/""Copyright (c)" _"ENTITY"_ "-" _"BACK"_ "-" _"SUB-FIELD"_ "-" _-"BACK"_ "-" _"LEGAL"_ "-" "_"_/_"_"\(.)",(*/* = "continuous"/"pre-post"; merandum(s)'s, etc so forth, not required preposit of _entity) sefor ex.)""License"-"FORMAT"_LEGAL-ACQUISITION-EQUES")\.
 
-Copyright (c) */* "THOMAS CATALANO"
+Copyright (c) */* THOMAS CATALANO */* "THOMAS CATALANO"
 
-Copyright (c) */* "Copyright"
+Copyright (c) */* Copyright */* "Copyright"
 
-Copyright (c) */* "(c)"
+Copyright (c) */* (c) */* "(c)"
 
-Copyright (c) */* "Copyright (c)"
+Copyright (c) */* Copyright (c) */* "Copyright (c)"
 
-Copyright (c) */* "MIT License"
+Copyright (c) */* MIT License */* "MIT License"
 
-Copyright (c) */* "inclusive"
+Copyright (c) */* inclusive */* "inclusive"
 
-Copyright (c) */* "agreement"
+Copyright (c) */* and */* "and"
 
-Copyright (c) */* "License"
+Copyright (c) */* this */* "this"
 
-Copyright (c) */* "Patent"
+Copyright (c) */* of */* "of"
 
-Copyright (c) */* "Trademark"
+Copyright (c) */* by */* "by"
 
-Copyright (c) */* "Binary"
+Copyright (c) */* and/or */* "and/or"
 
-Copyright (c) */* "©"
+Copyright (c) */* agreement */* "agreement"
+
+Copyright (c) */* License */* "LICENSE"
+
+Copyright (c) */* Patent */* "Patent"
+
+Copyright (c) */* Trademark */* "Trademark"
+
+Copyright (c) */* Binary */* "Binary"
+
+Copyright (c) */* © */* "©"
 
 Copyright (c) */* "~0~9~"
 
