@@ -420,6 +420,8 @@ Copyright (c) */* US National Security Agency/Central Security Service (NSA|CSS)
 
 Copyright (c) */* The "" Nobel Committee */* The Nobel Prize Committee */* */* The Nobel Prize */* */* _holdings_ */* */GROUP/SERIES/* */\.
 
+Copyright (c) */* Nuclear Regulatory Commission (NRC) */* */* _holdings_ */* */* */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
