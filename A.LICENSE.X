@@ -26,7 +26,7 @@ Copyright (c) ;*/* "Binary"
 
 Copyright (c) ;*/* "©"
 
-Copyright (c) ;"~0~9~"
+Copyright (c) ;*/* "~0~9~"
 
 Copyright (c) ;*/* "0"
 
