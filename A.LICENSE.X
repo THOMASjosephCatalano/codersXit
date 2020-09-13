@@ -1,58 +1,58 @@
 MIT License
 
-Copyright (c) ;"License-FORMAT_LEGAL-ACQUISITION-EQUES";this "license" "inclusive":/""Copyright (c)" _"ENTITY"_ "-" _"BACK"_ "-" _"SUB-FIELD"_ "-" _-"BACK"_ "-" _"LEGAL"_ "-" "_"_/_"_"\(.)",(*/* = "continuous"/"pre-post"; merandum(s)'s, etc so forth, not required preposit of _entity) sefor ex.)""License"-"FORMAT"_LEGAL-ACQUISITION-EQUES")\.
+Copyright (c) ;*/* "License-FORMAT_LEGAL-ACQUISITION-EQUES";this "license" "inclusive":/""Copyright (c)" _"ENTITY"_ "-" _"BACK"_ "-" _"SUB-FIELD"_ "-" _-"BACK"_ "-" _"LEGAL"_ "-" "_"_/_"_"\(.)",(*/* = "continuous"/"pre-post"; merandum(s)'s, etc so forth, not required preposit of _entity) sefor ex.)""License"-"FORMAT"_LEGAL-ACQUISITION-EQUES")\.
 
-Copyright (c) ;"THOMAS CATALANO"
+Copyright (c) ;*/* "THOMAS CATALANO"
 
-Copyright (c) ;"Copyright"
+Copyright (c) ;*/* "Copyright"
 
-Copyright (c) ;"(c)"
+Copyright (c) ;*/* "(c)"
 
-Copyright (c) ;"Copyright (c)"
+Copyright (c) ;*/* "Copyright (c)"
 
-Copyright (c) ;"MIT License"
+Copyright (c) ;*/* "MIT License"
 
-Copyright (c) ;"inclusive"
+Copyright (c) ;*/* "inclusive"
 
-Copyright (c) ;"agreement"
+Copyright (c) ;*/* "agreement"
 
-Copyright (c) ;"License"
+Copyright (c) ;*/* "License"
 
-Copyright (c) ;"Patent"
+Copyright (c) ;*/* "Patent"
 
-Copyright (c) ;"Trademark"
+Copyright (c) ;*/* "Trademark"
 
-Copyright (c) ;"Binary"
+Copyright (c) ;*/* "Binary"
 
-Copyright (c) ;"©"
+Copyright (c) ;*/* "©"
 
 Copyright (c) ;"~0~9~"
 
-Copyright (c) ;"0"
+Copyright (c) ;*/* "0"
 
-Copyright (c) ;"1"
+Copyright (c) ;*/* "1"
 
-Copyright (c) ;"2"
+Copyright (c) ;*/* "2"
 
-Copyright (c) ;"3"
+Copyright (c) ;*/* "3"
 
-Copyright (c) ;"4"
+Copyright (c) ;*/* "4"
 
-Copyright (c) ;"5"
+Copyright (c) ;*/* "5"
 
-Copyright (c) ;"6"
+Copyright (c) ;*/* "6"
 
-Copyright (c) ;"7"
+Copyright (c) ;*/* "7"
 
-Copyright (c) ;"8"
+Copyright (c) ;*/* "8"
 
-Copyright (c) ;"9"
+Copyright (c) ;*/* "9"
 
-Copyright (c) ;"A(a)-Z(z)"
+Copyright (c) ;*/* "A(a)-Z(z)"
 
-Copyright (c) ;"°"
+Copyright (c) ;*/* "°"
 
-Copyright (c) ;"^"
+Copyright (c) ;*/* "^"
 
 Copyright (c) */* MIT License */* */* _holdings_ */* */\.
 
