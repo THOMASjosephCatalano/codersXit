@@ -102,7 +102,7 @@ Copyright (c) */* "PhD"
 
 Copyright (c) */* PhD */* _holdings_ */* */SYSTEM/GROUP/FOUNDATION/* */non-profit\.
 
-Copyright (c) */* Physics/Chemistry/Numerical-Comp */* */* _holdings_ */* */SYSTEM/FOUNDATION/GROUP/TENDER/* */\.
+Copyright (c) */* */Physics/Chemistry/Numerical-Comp/Law/* */* */* _holdings_ */* */SYSTEM/FOUNDATION/GROUP/TENDER/* */\.
 
 Copyright (c) */* "?" */* _holdings_ */* */* */\.
 
