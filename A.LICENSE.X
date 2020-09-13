@@ -92,7 +92,7 @@ Copyright (c) ;*/* "PhD"
 
 Copyright (c) */* PhD */* _holdings_ */* */SYSTEM/GROUP/FOUNDATION/* */non-profit\.
 
-Copyright (c) */* Physics/Chemistry/Numerical-Comp */* */* _holdings_ */* */SYSTEM/FOUNDATION/GROUP/* */\.
+Copyright (c) */* Physics/Chemistry/Numerical-Comp */* */* _holdings_ */* */SYSTEM/FOUNDATION/GROUP/TENDER/* */\.
 
 Copyright (c) */* "?" */* _holdings_ */* */* */\.
 
@@ -266,7 +266,7 @@ Copyright (c) */* U.S. Securities Exchange */* _holdings_ */* */Corporation/GROU
 
 Copyright (c) */* CNN */* _holdings_ */* */* Broadcast */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
-Copyright (c) */* US Treasury NOTE */* _holdings_ */* */* _monetization__currency_ */* */* "currencies" */* */GROUP/SYSTEM/* */INC./LLC./non-profit\.
+Copyright (c) */* US Treasury NOTE */* _holdings_ */* */* _monetization__currency_ */* */* "currencies" */* */GROUP/SYSTEM/TENDER/* */INC./LLC./non-profit\.
 
 Copyright (c) */* National Broadcasting Company (NBC) */* _holdings_ */* */Corporation/GROUP/* */INC./INC./non-profit\.
 
@@ -282,11 +282,11 @@ Copyright (c) */* US Army Research Laboratory (ARL) */* _holdings_ */* */GROUP/C
 
 Copyright (c) */* PIMCO HOLDINGS */* _holdings_ */* */GROUP/Corporation/* */INC./LLC./non-profit\.
 
-Copyright (c) */* Motion Picture Association of America */* _holdings_ */* */ */INC./LLC./non-profit\.
+Copyright (c) */* Motion Picture Association of America */* _holdings_ */* */* */INC./LLC./non-profit\.
 
-Copyright (c) */* */US/* */* */* ""PATENT" _&_ "TRADEMARK"" */* */* _holdings_ */* */Account/Papers/Writings/Format/SYSTEM/GROUP/* */ */non-profit\.
+Copyright (c) */* */US/* */* */* ""PATENT" _&_ "TRADEMARK"" */* */* _holdings_ */* */Account/Papers/Writings/Format/SYSTEM/GROUP/TENDER/* */ */non-profit\.
 
-Copyright (c) */* USAA */* _holdings_ */* */ */INC./LLC./non-profit\.
+Copyright (c) */* USAA */* _holdings_ */* */* */INC./LLC./non-profit\.
 
 Copyright (c) */* General Motors (GM) */* "cars/trucks/automobiles/vehicles" */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
 
@@ -344,7 +344,7 @@ Copyright (c) */* National Aeronautics & Space Agency (NASA) */* */* _(_NASA_)_ 
 
 Copyright (c) */* North American Aerospace Defense (NORAD) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 
-Copyright (c) */* Antarctic Treaty System(ATS) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
+Copyright (c) */* Antarctic Treaty System (ATS) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 
 Copyright (c) */* INTERNATIONAL STANDARDS ORGANIZATION (ISO) */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 
@@ -406,7 +406,7 @@ Copyright (c) */* US Department of Commerce (doc) */* */* Department of Commerce
 
 Copyright (c) */* US Central Intelligence Agency (CIA) */* */* Central Intelligence Agency (CIA) */* */* _holdings_ */* */GROUP/SYSTEM/FOUNDATION/CORPORATION/* */\.
 
-Copyright (c) */* US National Security Agency/Central Security Service (NSA|CSS) */* */* National Security Agency/Central Security Service (NSA|CSS) */* */* _holdings_ */* */GROUP/SYSTEM/FOUNDATION/* /*\.
+Copyright (c) */* US National Security Agency/Central Security Service (NSA|CSS) */* */* National Security Agency/Central Security Service (NSA|CSS) */* */* _holdings_ */* */GROUP/SYSTEM/FOUNDATION/TENDER/* /*\.
 
 Copyright (c) */* The "" Nobel Committee */* The Nobel Prize Committee */* */* The Nobel Prize */* */* _holdings_ */* */GROUP/SERIES/* */\.
 
