@@ -424,6 +424,8 @@ Copyright (c) */* The "" Nobel Committee */* The Nobel Prize Committee */* */* T
 
 Copyright (c) */* Nuclear Regulatory Commission (NRC) */* */* _holdings_ */* */* */\.
 
+Copyright (c) */* vector(*)(ie. -izing) */* plot(*)(ie. -ting) */* graph(*)(ie. -ing) */* _vector__plot__graphing_ */* */* _holdings_ */* */CHARTS/SYSTEMS/NAVIGATION/HONING/MOTION/ENUMERATION/* */* */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
