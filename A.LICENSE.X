@@ -72,7 +72,7 @@ Copyright (c) */* BIT(s);"BIT(s)" */* _holdings_ */* */* */\.
 
 Copyright (c) */* ALTUSNET */* _holdings */* */\.
 
-Copyright (c) ;"cryptocurrency" */* */cryptocurrency/*;:((blockchain;algorithm)&|"like") */* */* _holdings_ */* */\.
+Copyright (c) ;*/* "cryptocurrency" */* */cryptocurrency/*;:((blockchain;algorithm)&|"like") */* */* _holdings_ */* */\.
 
 Copyright (c) */* https:// */* */*"https://" */* */* _holdings */* */* */\.
 
@@ -84,11 +84,11 @@ Copyright (c) */* Copyright (c) */* */* _holdings_ */* */\.
 
 Copyright (c) */* Ph.D/Ph.D. */* _holdings_ */* */licensing/SYSTEM/GROUP(s)/FOUNDATION/* */non-profit\.
 
-Copyright (c) ;"Ph.D"
+Copyright (c) ;*/* "Ph.D"
 
-Copyright (c) ;"Ph.D."
+Copyright (c) ;*/* "Ph.D."
 
-Copyright (c) ;"PhD"
+Copyright (c) ;*/* "PhD"
 
 Copyright (c) */* PhD */* _holdings_ */* */SYSTEM/GROUP/FOUNDATION/* */non-profit\.
 
@@ -407,6 +407,8 @@ Copyright (c) */* US Department of Commerce (doc) */* */* Department of Commerce
 Copyright (c) */* US Central Intelligence Agency (CIA) */* */* Central Intelligence Agency (CIA) */* */* _holdings_ */* */GROUP/SYSTEM/FOUNDATION/CORPORATION/* */\.
 
 Copyright (c) */* US National Security Agency/Central Security Service (NSA|CSS) */* */* National Security Agency/Central Security Service (NSA|CSS) */* */* _holdings_ */* */GROUP/SYSTEM/FOUNDATION/* /*\.
+
+Copyright (c) */* The "" Nobel Committee */* The Nobel Prize Committee */* */* The Nobel Prize */* */* _holdings_ */* */GROUP/SERIES/* */\.
 
 All rights reserved.    
 
