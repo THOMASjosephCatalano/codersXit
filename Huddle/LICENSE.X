@@ -1,9 +1,9 @@
 */* MIT License */*
 
-Copyright (c) ;THOMAS CATALANO 
+Copyright (c) THOMAS CATALANO 
 
-Copyright (c) ;Binary Coded Decimal(BCD);format/encoding
-Copyright (c) ;".*" *=all file;format/extensions/encoding
+Copyright (c) "Binary Coded Decimal(BCD);format/encoding"\.
+Copyright (c) ;".*" *=all file;format/extensions/encoding\.
 
 Copyright (c) ;".asm*" file;format/extensions/encoding
 Copyright (c) ;".i*" file;format/extensions/encoding
