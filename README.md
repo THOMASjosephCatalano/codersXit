@@ -1,6 +1,7 @@
-# Copyright (c) THOMAS CATALANO
+# Copyright (c) THOMAS CATALANO 
 #
-THOMAS CATALANO License
+THOMAS CATALANO License \
+THOMAS CATALANO License.x \
 
 Copyright (c) ;"";CATALANO THOMAS(); Copyright (c) ;THOMAS CATALANO(135-74-4812;DOB:1981-02-05);"Doctor";"Ph.D."(); Copyright (c) ;"THOMAS CATALANO"; Copyright (c) ;Copyright (c) Copyright (c) ;"";"Copyright (c)"; Copyright (c) ;"";"All rights reserved."; Copyright (c) ;"";"License";"License.x"; Copyright (c) ;"";THOMAS CATALANO License():
 
