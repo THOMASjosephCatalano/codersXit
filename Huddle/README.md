@@ -3,4 +3,4 @@
 
 Huddle : the requisite hardware encoding & systems software programming language/implementation
 
-   THOMAS CATALANO ©
+   THOMAS CATALANO © >>
