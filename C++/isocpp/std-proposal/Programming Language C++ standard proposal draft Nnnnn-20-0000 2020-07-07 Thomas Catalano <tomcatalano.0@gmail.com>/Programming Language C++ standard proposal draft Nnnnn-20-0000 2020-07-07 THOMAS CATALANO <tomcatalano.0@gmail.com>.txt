@@ -1,6 +1,6 @@
 Documentation Number: Nnnnn-20-0000
 Date:                 2020-07-07
-Project:              Programming Language C++, Library Working Group
+Project:              Programming Language C++, Standards Working Group
 Reply-to:             THOMAS CATALANO <tomcatalano.0@gmail.com>
 
 
