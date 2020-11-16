@@ -12,13 +12,31 @@ to render execution::*_policy as concurrent updates without syncronization.
 
 Table of Contents
 
-I Introduction
+I Introduction.
 
 
 ----------------------------------------------------------------------------------------
 
-I Introduction
+I Introduction:
 
 When we call our reference(s), the counter remains static deteriorating time no matter 
-the pointer, without inherently calling the same reference to stop the counter causing
-a removed time sync 
+the pointer, without inherently calling the same reference to stop the counter; causing
+a removed time-clock counter\,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THOMAS CATALANO ©
