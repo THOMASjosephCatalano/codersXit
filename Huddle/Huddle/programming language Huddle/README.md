@@ -1,9 +1,9 @@
-#
-
-© THOMAS CATALANO
-
-# github.com/tomsnode/Copyright/blob/master/README.md\
+www.githib.com/tomsnode/Copyright/blob/master/README.md\
 
 
 
 # Huddle
+
+
+
+   THOMAS CATALANO © >>
