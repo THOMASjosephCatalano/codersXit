@@ -5,7 +5,7 @@ Reply-to:             THOMAS CATALANO <tomcatalano.0@gmail.com>
 
 
 
-Proposal, FOR;, shared_ptr's as ATOMIC_SHARED_PTR_T_LOCK_FREE 
+Proposal, FOR;, shared_ptr(s) as ATOMIC_SHARED_PTR_T_LOCK_FREE 
 to render execution::*_policy as concurrent updates without syncronization\.
 
 
