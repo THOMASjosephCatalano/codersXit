@@ -1,10 +1,10 @@
-©\/,;:
+©\/,:,
 
 
 '\/,
 
 
-\www.github.com/tomsnode
+'\/www.github.com/tomsnode\/,
 
 
 '\/,
