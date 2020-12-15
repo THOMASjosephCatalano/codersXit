@@ -1,10 +1,9 @@
-©\/,-:-,
+©\/,::,:
 
-,'.\/:
 
 :\/www.github.com/tomsnode
 
 ,'.\/:
 
 
-,'.\/©\/,'THOMAS CATALANO',\/©\/ <<>> \/©
+,::.\/©\/,:'THOMAS CATALANO,Ph Doctor',\/©\/ <<>> \/©
