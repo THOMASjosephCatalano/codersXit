@@ -1,9 +1,10 @@
-©\z/:z:'THOMAS CATALANO';:z:
+©;;::.\z/;::;*'THOMAS CATALANO'*;::;\z/;::;;
 
 
-:z:.\/www.github.com/tomsnode
 
-:z:.\/;:z:
+www.github.com/tomsnode
+www.github.com/conceptslearningmachine
+www.github.com/altusnets
+www.github.com/theBITsEXCHANGE
 
-
-:z:.\/©\/:z:'THOMAS CATALANO,Ph.Doctor';:z:\/©\/ <<z>> \/©
+;;::.\z/;::;*'THOMAS CATALANO,Ph.Doctor'*;::;<<z>>;::;;©
