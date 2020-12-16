@@ -1,4 +1,4 @@
-©;;::.\z/;::;*'THOMAS CATALANO'*;::;\z/;::;;
+©>;;::;*'THOMAS CATALANO'*;::;;
 
 
 
@@ -7,4 +7,4 @@ www.github.com/conceptslearningmachine
 www.github.com/altusnets
 www.github.com/theBITsEXCHANGE
 
-;;::.\z/;::;*'THOMAS CATALANO,Ph.Doctor'*;::;<<z>>;::;;©
+;;::;*'THOMAS CATALANO,Ph.Doctor'*;::;;<©
