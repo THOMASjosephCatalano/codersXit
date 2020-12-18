@@ -1,4 +1,4 @@
-'::$©$::$-THOMAS-$-CATALANO-$::'
+'::$©$::$-THOMAS-$-CATALANO-$:
 
 ::-esquire-so-for-::
 ::THIS-DIRECTORIE.CODES_README.x::
@@ -15,4 +15,4 @@ CLM ~ Concepts Learning Machine,Limited Liability Company (LLC),<>
 Catalano Concepts,Limited Liability Company (LLC),<>
 ::'
 
-'::$-THOMAS-$-CATALANO-$::$©$::'
+::$-THOMAS-$-CATALANO-$::$©$:'
