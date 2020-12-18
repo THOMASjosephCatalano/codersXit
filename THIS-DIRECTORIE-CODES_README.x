@@ -1,8 +1,8 @@
 THOMAS CATALANO':$©$::$-THOMAS-$-CATALANO-$:
-::Algorithm License::
 ::-esquire-so-for-::
+::https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIECOPYRIGHTS%5CREADME.x::
+::Algorithm License::
 ::THIS-DIRECTORIE-CODES_README.x::
-https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x<>
 www.github.com/tomsnode<>
 www.github.com/conceptslearningmachine<>
 www.github.com/altusnets<>
