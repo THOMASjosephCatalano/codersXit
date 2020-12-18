@@ -1,6 +1,7 @@
 '::$©$::$-THOMAS-$-CATALANO-$::'
 
 ::-esquire-so-for-::
+::THIS-DIRECTORIE.CODES_README.x::
 
 '::
 https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x<>
