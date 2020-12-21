@@ -10,7 +10,7 @@ www.github.com/conceptslearningmachine<>
 www.github.com/altusnets<>
 www.github.com/TheBITsMARKET<>
 www.github.com/theBITsEXCHANGE<>
-"BITs EXCHANGE,non-profit;Corporation,"<>
-"CLM ~ Concepts Learning Machine,Limited Liability Company (LLC),"<>
-"Catalano Concepts,Limited Liability Company (LLC),"<>
+"BITs EXCHANGE,non-profit;Corporation,"
+"CLM ~ Concepts Learning Machine,Limited Liability Company (LLC),"
+"Catalano Concepts,Limited Liability Company (LLC),"
 ,:$©$:$-THOMAS-$-CATALANO-$::$©$"<
